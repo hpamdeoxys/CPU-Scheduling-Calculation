@@ -4,7 +4,7 @@ Compute Waiting Time and Turnaround Time of Every Job and Average Waiting Time a
 Show Ghant Chart
 
 ## Summary
-Project was created as part of Operating System class final project. Data Structures used are Dictionaries and List; Which are built-in Python. Choice of Python language was simple due to math computation and ease use of mutable objects.
+Project was created as part of Operating System's class final project. Data Structures used are Dictionaries and List; Which are built-in Python. Choice of Python language was simple due to math computation and ease use of mutable objects.
 
 ## Output
 ```OUTPUT
