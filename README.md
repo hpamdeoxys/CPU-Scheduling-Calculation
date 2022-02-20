@@ -28,7 +28,7 @@ SHORTEST JOB FIRST
   P4       5        1       5         6
   P5      10        3       3         6
   P6      21       12       0        12
-Average Wait Time = 5.0    Average Turnaround Time = 10.333333333333334
+Average Wait Time = 5.0    Average Turnaround Time = 10.34
 
 0 -> P1 -> 10 -> P4 -> 11 -> P2 -> 13 -> P5 -> 16 -> P3 -> 20 -> P6 -> 33 
 
